@@ -1,0 +1,13 @@
+
+{
+  "baseUrl": "http://localhost:4100/",
+  "env": {
+    "backendUrl": "https://api.realworld.io/api/",
+    "mobileViewportWidthBreakpoint": 575,
+    "username": "zoomght@gmail.com",
+    "password": "sifrica1"
+  },
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "failOnStatusCode": false
+}
